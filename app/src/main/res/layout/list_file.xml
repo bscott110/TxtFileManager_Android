@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewFileName"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="14dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewFileSize"
+        android:layout_width="72dp"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="300dp"
+        android:layout_marginTop="15dp"
+        android:text="TextView" />
+</RelativeLayout>

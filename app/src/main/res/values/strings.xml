@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text File Manager</string>
+    <string name="del">Delete</string>
+    <string name="create">Create File</string>>
+    <string name="file">File Name</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="sendto">Send To..</string>
+</resources>
